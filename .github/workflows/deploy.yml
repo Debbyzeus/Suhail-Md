@@ -1,7 +1,3 @@
-*Deploy.yml CODE COPY FROM HERE*👇
-
-
-
 name: Node.js CI
 
 on:
